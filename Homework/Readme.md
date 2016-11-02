@@ -17,6 +17,7 @@ Timeout --> [*]
 @enduml
 ```
 Diagram
+
 <img src="https://github.com/pongsakorn194/OOAD-WEEK11/blob/master/Homework/State%20Diagram01.png?raw=true">
 
 ### State Diagram2
@@ -37,6 +38,7 @@ switchon --> lampon : on
 @enduml
 ```
 Diagram
+
 <img src="https://github.com/pongsakorn194/OOAD-WEEK11/blob/master/Homework/State%20Diagram02.png?raw=true">
 ### State Diagram3
 Code
@@ -56,6 +58,7 @@ poweroff -> running: restorepower
 @enduml
 ```
 Diagram
+
 <img src="https://github.com/pongsakorn194/OOAD-WEEK11/blob/master/Homework/State%20Diagram03.png?raw=true">
 ### State Diagram4
 Code
@@ -76,6 +79,7 @@ Therecordeddata ->[*]
 @enduml
 ```
 Diagram
+
 <img src="https://github.com/pongsakorn194/OOAD-WEEK11/blob/master/Homework/State%20Diagram04.png?raw=true">
 ### State Diagram5
 Code
@@ -104,4 +108,5 @@ drinkready -> [*] : drinkremoved
 @enduml
 ```
 Diagram
+
 <img src="https://github.com/pongsakorn194/OOAD-WEEK11/blob/master/Homework/State%20Diagram05.png?raw=true">
